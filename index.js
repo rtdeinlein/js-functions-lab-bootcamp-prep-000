@@ -1,3 +1,3 @@
 var date = "July 3rd"
 console.log('My birthday is ${date}')
-function happyHolidays(){return 
+function happyHolidays(){return "Happy Holidays"
